@@ -1,1 +1,1 @@
-# gini-aws-bedrock-rag-implementation
+# rag-implementation
